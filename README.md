@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+Hi!
+
+This is the first edit to the hello-world project.
